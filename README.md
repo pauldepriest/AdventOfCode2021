@@ -33,3 +33,7 @@ We're doing prizes again this year! Here are the rules to be eligible to win a p
 ### About Advent of Code
 
 Advent of Code is a project created by Eric Wastl (@ericwastl); each year during the month of December, puzzles are listed on the [challenge website](https://adventofcode.com/). A new puzzle is listed each day of the month and requires code to solve (actually any language will work--but we especially love Python!). Puzzles are created for a variety of skill levels and are perfect for challenging yourself, others, or collaborating together to solve.
+
+### Users' Repos
+
+- [Drew Winstel](https://github.com/drewbrew/advent-of-code-2021)
