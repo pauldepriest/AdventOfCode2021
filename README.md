@@ -40,9 +40,7 @@ Check out solutions from our community below! If you'd like yours listed, feel f
 
 - [Drew Winstel](https://github.com/drewbrew/advent-of-code-2021)
 - [Pat Viafore](https://github.com/pviafore/AdventOfCode2021)
-
-
-
+- [Michael Carroll](https://github.com/mjcarroll/advent-dot-py/blob/main/2021.ipynb)
 
 ### Extra Python Challenges
 
