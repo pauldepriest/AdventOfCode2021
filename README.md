@@ -50,3 +50,7 @@ If you'd like to learn a little bit more Python, check out some of these extra c
 - Can you solve the challenge with no for loops (comprehensions are okay)
 - Can you solve the challenge using the [zip](https://docs.python.org/3/library/functions.html#zip) function?
 - Can you solve the challenge by writing a function for part 1, and having part 2 use that function?
+
+#### Day 2
+- Can you solve the challenge with no if statements (hint: try a dictionary that maps move type to function)
+- Can you solve the challenge using Python 3.10's [pattern matching](https://www.python.org/dev/peps/pep-0636/)
