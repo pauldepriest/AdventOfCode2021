@@ -36,4 +36,19 @@ Advent of Code is a project created by Eric Wastl (@ericwastl); each year during
 
 ### Users' Repos
 
+Check out solutions from our community below! If you'd like yours listed, feel free to open up a PR against this repo.
+
 - [Drew Winstel](https://github.com/drewbrew/advent-of-code-2021)
+- [Pat Viafore](https://github.com/pviafore/AdventOfCode2021)
+
+
+
+
+### Extra Python Challenges
+
+If you'd like to learn a little bit more Python, check out some of these extra challenges each day to level up your Python skills!
+
+#### Day 1
+- Can you solve the challenge with no for loops (comprehensions are okay)
+- Can you solve the challenge using the [zip](https://docs.python.org/3/library/functions.html#zip) function?
+- Can you solve the challenge by writing a function for part 1, and having part 2 use that function?
