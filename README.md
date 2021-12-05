@@ -58,3 +58,10 @@ If you'd like to learn a little bit more Python, check out some of these extra c
 #### Day 3
 - Can you solve the challenge with using bitwise operators (hint: check out the `&` operator and the `~` operator?
 - Can you solve the challenge with no bitwise operators?
+
+#### Day 4
+- Are you familiar with the [`any()`](https://docs.python.org/3/library/functions.html#any) and [`all()`](https://docs.python.org/3/library/functions.html#all) functions? Try to solve using those!
+
+#### Day 5
+- Can you solve this without creating a grid?
+- Can you solve this with a [`Counter`](https://docs.python.org/3/library/collections.html#collections.Counter)
