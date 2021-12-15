@@ -64,4 +64,32 @@ If you'd like to learn a little bit more Python, check out some of these extra c
 
 #### Day 5
 - Can you solve this without creating a grid?
-- Can you solve this with a [`Counter`](https://docs.python.org/3/library/collections.html#collections.Counter)
+- Can you solve this with a [`Counter`](https://docs.python.org/3/library/collections.html#collections.Counter)?
+
+#### Day 6
+- Can you solve this with a [`Counter`](https://docs.python.org/3/library/collections.html#collections.Counter)?
+
+#### Day 7
+- Can you solve this using the [`abs`](https://docs.python.org/3/library/functions.html#abs) function?
+
+#### Day 8
+- Can you solve this using the [`str.translate`](https://docs.python.org/3/library/stdtypes.html#str.translate) function?
+
+#### Day 9
+- Can you solve this using the [`defaultdict`](https://docs.python.org/3/library/collections.html#collections.defaultdict) function?
+
+#### Day 10
+- Can you solve this using a list as a [stack](https://realpython.com/how-to-implement-python-stack/)?
+
+#### Day 11
+- Can you solve this recursively?
+
+#### Day 12
+- Can you solve this using an [adjacency list](https://www.geeksforgeeks.org/comparison-between-adjacency-list-and-adjacency-matrix-representation-of-graph/) to represent the graph?
+- Can you solve this using an [adjacency matrix](https://www.geeksforgeeks.org/comparison-between-adjacency-list-and-adjacency-matrix-representation-of-graph/) to represent the graph?
+
+#### Day 13
+- Can you solve this without making a grid until you've done all the folds (only using a list of points)
+
+#### Day 13
+- Can you solve this with the [`max`](https://docs.python.org/3/library/functions.html#max) and [`min`](https://docs.python.org/3/library/functions.html#min) functions
